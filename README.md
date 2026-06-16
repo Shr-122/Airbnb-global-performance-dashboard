@@ -54,10 +54,10 @@ Airbnb operates across multiple cities and property types. The objective was to 
 ## Dashboard Preview
 
 ### Overview Page
-(Add Screenshot Here)
+![Overview Dashboard](Overview.png)
 
-### Market Share & Ratings Page
-(Add Screenshot Here)
+### Review Page
+![Review Dasnboard](Review.png)
 
 ## Author
 Shruti Bhanushali
